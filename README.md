@@ -1,7 +1,7 @@
-info
-====
+Smithsonian @ Github
+====================
 
-Overiew of the Smithsonian github organization.
+This is an overiew of the various groups and repositories within the Smithsonian github organization.
 
 ## Groups
 - ### [Cooper Hewitt National Design Museum](https://github.com/cooperhewitt)
